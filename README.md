@@ -2,6 +2,12 @@
 
 A comprehensive collection of projects demonstrating the Google Agent Development Kit (ADK) capabilities, featuring progressive codelabs and a hackathon project showcasing AI agent development with Google's Gemini models.
 
+Youtube Demo's for codelabs and hackathon project : 
+  - codelab 1 - from prototypes to agents - Renovation Proposal Agent - https://youtu.be/--WdzacZe1U
+  - codelab 2 - empowering with tools - Currency Converter Agent - https://youtu.be/3xDdbiAgk-E
+  - codelab 3 - travel agent with MCP (Model Context Protocol) - Travel Agent - https://youtu.be/tUrjq-Spu_k
+  - Hackathon Project - Study Buddy Agent - https://youtu.be/E1uMaCztQY4
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
